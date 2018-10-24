@@ -1,0 +1,8 @@
+[
+  {
+    "servername":"localhost",
+    "dbname":"_bankdb",
+    "username":"root",
+    "password":"root"
+  }
+]
